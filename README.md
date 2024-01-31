@@ -13,7 +13,7 @@ The tool facilitates the capturing of Unity's XRHandShape, enabling developers t
 
 2. Go to the Package Manager and manually install:
     - [TextMeshPro](https://docs.unity3d.com/Packages/com.unity.textmeshpro@3.2/manual/index.html)
-    - [XR Hands v1.4.0-pre1](com.unity3d.kharma:upmpackage/com.unity.xr.hands) (needed for the Gesture Detection):
+    - [XRHands v1.4.0-pre1](https://docs.unity3d.com/Packages/com.unity.xr.hands@1.4/manual/project-setup/install-xrhands.html)
       - Click on the '+' symbol.
       - Choose "Add package by name."
       - For name, insert: `com.unity.xr.hands`.
