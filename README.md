@@ -1,5 +1,5 @@
 # Simple Gesture Recorder 
-### Version 1.0.0
+### XR Hand pose snapshot tool for Unity Editor (windows)
 ![Simple Gesture Recorder Screenshot](https://github.com/Phlegmati/SimpleGestureRecorder/assets/56511043/c5e37115-de22-40cf-a173-55a7c79314b8)
 
 This repository contains a utility tool for Unity developers, which works on top of the [Gesture Samples](https://docs.unity3d.com/Packages/com.unity.xr.hands@1.4/manual/index.html#samples).
@@ -64,9 +64,21 @@ Make sure you completed all the steps above before proceeding to the next sectio
     
 8. Assets were created under `SimpleGestureRecorder/Snapshots`:
    - Screenshot of Pose
-   - (optional) LeftHandPose
-   - (optional) RightHandPose
+   - (optional) LeftHandPose.asset
+   - (optional) RightHandPose.asset
 
+
+## Contribute
+
+Feel free to use and contribute in any way, making this tool awesome and usable for everyone.
+
+## ToDos:
+
+- Support Mac and Linux (paths etc.)
+- Record XRHandPoses instead of XRHandShapes
+- Record hand motion
+- Edit approximity calculations for tolerance
+- Improve UI/UX
 
 ## License
 
